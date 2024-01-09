@@ -1,0 +1,101 @@
+Title,Artists,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+Rockin' Around The Christmas Tree,Brenda Lee,2EjXfH91m7f8HiJN1yQg97,0.589,0.472,8,-8.749,1,0.0502,0.614,0.0,0.505,0.898,67.196
+All I Want For Christmas Is You,Mariah Carey,7iKRL1F3m4t4dkMponnD0P,0.548,0.871,7,-4.253,1,0.0708,0.00113,0.0,0.765,0.64,128.136
+Jingle Bell Rock,Bobby Helms,7vQbuQcyTflfCIOu3Uzzya,0.754,0.424,2,-8.463,1,0.0363,0.643,0.0,0.0652,0.806,119.705
+Last Christmas,Wham!,2FRnf9qhLbvw8fu4IBXx78,0.735,0.478,2,-12.472,1,0.0293,0.189,2.48e-06,0.355,0.947,107.682
+A Holly Jolly Christmas,Burl Ives,77khP2fIVhSW23NwxrRluh,0.683,0.375,0,-13.056,1,0.0303,0.579,0.0,0.076,0.888,140.467
+It's The Most Wonderful Time Of The Year,Andy Williams,5hslUAKq9I9CG2bAulFkHN,0.24,0.598,7,-8.435,1,0.0369,0.766,0.0,0.117,0.776,201.629
+"Let It Snow, Let It Snow, Let It Snow!",Dean Martin,2uFaJJtFpPDc5Pa95XzTvg,0.451,0.24,1,-14.014,1,0.0351,0.912,2.45e-06,0.175,0.701,134.009
+Feliz Navidad,Jose Feliciano,0oPdaY4dXtc3ZsaG17V972,0.513,0.831,2,-9.004,1,0.0383,0.55,0.0,0.336,0.963,148.837
+Lovin On Me,Jack Harlow,4xhsWYTOGcal8zt0J161CU,0.943,0.558,2,-4.911,1,0.0568,0.0026,2.19e-06,0.0937,0.606,104.983
+Sleigh Ride,The Ronettes,5ASM6Qjiav2xPe7gRkQMsQ,0.529,0.772,2,-7.013,1,0.0287,0.403,2.21e-06,0.316,0.853,91.751
+Santa Tell Me,Ariana Grande,0lizgQ7Qw35od7CYaoMBZb,0.525,0.621,7,-7.364,1,0.116,0.0489,0.0,0.294,0.591,191.9
+The Christmas Song (Merry Christmas To You),"Nat ""King"" Cole",4PS1e8f2LvuTFgUs1Cn3ON,0.319,0.21,1,-15.231,1,0.0341,0.92,8.06e-05,0.138,0.209,78.696
+Underneath The Tree,Kelly Clarkson,3YZE5qDV7u1ZD1gZc47ZeR,0.509,0.812,8,-5.439,1,0.0537,0.00128,1.99e-05,0.214,0.689,159.878
+White Christmas,Bing Crosby With Ken Darby Singers & John Scott Trotter & His Orchestra,5mM1jHHXhKc0ZYi0R8EOLn,0.261,0.185,9,-16.526,1,0.0362,0.94,0.00108,0.155,0.138,94.566
+Christmas (Baby Please Come Home),Darlene Love,46pF1zFimM582ss1PrMy68,0.325,0.759,8,-7.146,1,0.053,0.395,0.000362,0.0773,0.36,126.627
+Jingle Bells,Frank Sinatra With The Orchestra & Chorus Of Gordon Jenkins,4HEOgBHRCExyYVeTyrXsnL,0.512,0.339,8,-13.119,1,0.0498,0.727,0.0,0.0977,0.951,174.609
+Deck The Halls,Nat King Cole,1TH5fhztFZmUGWaCXmZ6ie,0.645,0.451,9,-8.892,1,0.0372,0.653,0.0,0.0708,0.965,107.178
+Blue Christmas,Elvis Presley,3QiAAp20rPC3dcAtKtMaqQ,0.465,0.27,4,-16.661,1,0.0425,0.9,0.00104,0.145,0.58,94.518
+Cruel Summer,Taylor Swift,1BxfuPKGuaTgP7aM0Bbdwr,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994
+Santa Baby,Eartha Kitt With Henri Rene And His Orchestra,1foCxQtxBweJtZmdxhEHVO,0.7,0.139,8,-12.346,1,0.0607,0.902,0.0,0.185,0.49,84.485
+Here Comes Santa Claus (Right Down Santa Claus Lane),Gene Autry,25leEEaz1gIpp7o21Fqyjo,0.834,0.371,1,-11.99,1,0.0358,0.799,0.0,0.275,0.976,96.628
+Run Rudolph Run,Chuck Berry,2pnPe4pJtq7689i5ydzvJJ,0.681,0.715,7,-10.609,0,0.0912,0.812,9.43e-06,0.0777,0.957,152.132
+It's Beginning To Look A Lot Like Christmas,Michael Buble,5a1iz510sv2W9Dt1MvFd5R,0.339,0.214,4,-11.714,1,0.0375,0.908,7.47e-06,0.341,0.363,94.775
+Greedy,Tate McRae,3rUGC1vUpkDG9CZFHMur1t,0.75,0.733,6,-3.18,0,0.0319,0.256,0.0,0.114,0.844,111.018
+Little Saint Nick,The Beach Boys,75dfH68JDisE8dDaD4KlVY,0.546,0.655,6,-7.015,1,0.0456,0.464,0.0,0.0791,0.961,129.385
+Wonderful Christmastime,Paul McCartney,1SV1fxF65n9NhRHp3KlBuu,0.774,0.511,11,-8.914,1,0.0319,0.322,0.0,0.0672,0.771,94.736
+It's Beginning To Look A Lot Like Christmas,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,2pXpURmn6zC5ZYDMms6fwa,0.724,0.276,7,-12.25,1,0.0599,0.76,0.0,0.116,0.718,112.874
+Please Come Home For Christmas,Eagles,3QIoEi8Enr9uHffwInGIsC,0.612,0.289,9,-11.568,1,0.0421,0.599,0.00266,0.0561,0.466,183.18
+Paint The Town Red,Doja Cat,2IGMVunIBsBLtEQyoI1Mu7,0.868,0.538,5,-8.603,1,0.174,0.269,3.34e-06,0.0901,0.732,99.968
+Santa Claus Is Comin' To Town,Jackson 5,2QpN1ZVw8eJO5f7WcvUA1k,0.692,0.762,0,-4.867,1,0.0342,0.424,1.27e-05,0.181,0.961,146.673
+I Remember Everything,Zach Bryan Featuring Kacey Musgraves,4KULAymBBJcPRpk1yO4dOG,0.429,0.453,0,-7.746,1,0.0459,0.554,2e-06,0.102,0.155,77.639
+Water,Tyla,5aIVCx5tnk0ntmdiinnYvw,0.673,0.722,3,-3.495,0,0.0755,0.0856,0.0,0.137,0.519,117.187
+"You're A Mean One, Mr. Grinch",Thurl Ravenscroft,4qP2V09IpTct5A1ZSnr1zh,0.517,0.484,2,-10.93,0,0.318,0.952,0.0075,0.129,0.42,141.914
+This Christmas,Donny Hathaway,38xhBO2AKrJnjdjVnhJES6,0.634,0.645,5,-9.2,1,0.0376,0.292,0.0,0.246,0.677,93.047
+Agora Hills,Doja Cat,7dJYggqjKo71KI9sLzqCs8,0.75,0.674,8,-6.128,0,0.097,0.228,8.91e-05,0.122,0.392,123.026
+Last Night,Morgan Wallen,59uQI0PADDKeE6UZDTJEe8,0.517,0.675,6,-5.382,1,0.0357,0.459,0.0,0.151,0.518,203.853
+Mistletoe,Justin Bieber,7xapw9Oy21WpfEcib2ErSA,0.657,0.56,6,-9.049,0,0.0467,0.498,0.0,0.0794,0.854,161.993
+Happy Holiday / The Holiday Season,Andy Williams,3sDdyBHQ60Cs1opmIyRvhp,0.505,0.451,9,-10.193,0,0.0329,0.727,0.0,0.233,0.744,74.347
+Christmastime Is Here,Vince Guaraldi Trio,6NQchnlpozM5o4n6WfDznd,0.336,0.17,5,-17.225,1,0.0327,0.957,0.661,0.0929,0.102,140.481
+Like It's Christmas,Jonas Brothers,1OjmlSFuzYflWjSMTCyTJv,0.725,0.571,1,-6.007,1,0.102,0.0183,0.0,0.0519,0.61,146.035
+Have Yourself A Merry Little Christmas,Michael Buble,1DnSNqCQM3LUxqFuXt184Q,0.275,0.276,9,-11.395,1,0.0321,0.602,0.00167,0.121,0.195,68.764
+Happy Xmas (War Is Over),John & Yoko/The Plastic Ono Band With The Harlem Community Choir,27RYrbL6S02LNVhDWVl38b,0.321,0.64,2,-10.023,1,0.0324,0.28,0.0,0.718,0.414,146.172
+I Saw Mommy Kissing Santa Claus,Jackson 5,15sxLiiChE5dCW3Y756oas,0.583,0.712,3,-8.222,1,0.0538,0.263,1.02e-06,0.817,0.614,128.897
+Thinkin' Bout Me,Morgan Wallen,0PAcdVzhPO4gq1Iym9ESnK,0.656,0.757,3,-5.775,0,0.0308,0.492,0.0,0.117,0.429,139.971
+Rudolph The Red-Nosed Reindeer,Gene Autry & The Pinafores,34MC0a5RRdXsfOEPAKiEd9,0.635,0.167,8,-14.019,1,0.0458,0.867,0.0,0.285,0.675,141.161
+Merry Christmas,Ed Sheeran & Elton John,3bH2Eu9A9ymI4UnGHRmoXg,0.594,0.935,0,-2.018,1,0.0357,0.243,2.36e-06,0.102,0.602,113.99
+Fast Car,Luke Combs,1Lo0QY9cvc8sUB2vnIOxDT,0.712,0.603,8,-5.52,1,0.0262,0.186,0.0,0.115,0.67,97.994
+Lose Control,Teddy Swims,6usohdchdzW9oML7VC4Uhk,0.561,0.604,9,-4.409,1,0.0337,0.199,1.9e-05,0.104,0.242,159.92
+Is It Over Now? (Taylor's Version) [From The Vault],Taylor Swift,1Iq8oo9XkmmvCQiGOfORiz,0.596,0.658,0,-7.346,1,0.036,0.0504,0.0,0.127,0.176,100.012
+(There's No Place Like) Home For The Holidays (1954),Perry Como With Mitchell Ayers And His Orchestra,2GapxG7BxK55ihQRAlR39e,0.532,0.401,5,-10.629,1,0.0525,0.869,0.0,0.222,0.45,143.823
+Lil Boo Thang,Paul Russell,0cVyQfDyRnMJ0V3rjjdlU3,0.85,0.699,0,-3.292,1,0.0776,0.152,0.0,0.32,0.915,114.481
+Rich Baby Daddy,Drake Featuring Sexyy Red & SZA,1wfYQIXAzt300l6i1aYiNS,0.645,0.735,2,-4.719,1,0.0475,0.0438,0.0,0.415,0.112,146.085
+FTCU,Nicki Minaj,1a73gcEg6h6Re6hHXoVltJ,0.928,0.458,11,-6.751,1,0.187,0.0175,0.000446,0.118,0.242,144.995
+Stick Season,Noah Kahan,0mflMxspEfB0VbI1kyLiAv,0.662,0.488,9,-6.894,1,0.0682,0.782,0.0,0.102,0.817,117.913
+Everybody,Nicki Minaj Featuring Lil Uzi Vert,5ZJGv7aGdIr9IGpxzSG18T,0.736,0.769,11,-5.546,0,0.258,0.027,0.0,0.23,0.388,137.947
+White Horse,Chris Stapleton,7MSWxMumjz6lHj7oRApNbg,0.353,0.77,1,-11.066,0,0.0493,0.0016,0.598,0.109,0.224,145.225
+First Person Shooter,Drake Featuring J. Cole,7aqfrAY2p9BUSiupwk3svU,0.47,0.64,2,-7.779,1,0.32,0.0277,0.0,0.382,0.248,163.92
+Used To Be Young,Miley Cyrus,41WQUSINanQHfhfKpFDsms,0.451,0.632,4,-3.843,1,0.0475,0.6,0.0,0.139,0.455,147.06
+Houdini,Dua Lipa,4OMJGnvZfDvsePyCwRGO7X,0.744,0.789,9,-4.876,0,0.059,0.0036,0.00144,0.0947,0.866,116.985
+Good Good,"Usher, Summer Walker & 21 Savage",0J1YRLYhTG1MBosjidD7OI,0.753,0.669,7,-4.914,0,0.104,0.0378,0.0,0.122,0.584,140.948
+World On Fire,Nate Smith,5ya0TmUQw2wHMkq36rPsnd,0.461,0.887,11,-4.871,0,0.0429,0.000219,0.0,0.104,0.411,95.964
+La Diabla,Xavi,0R6NfOiLzLj4O5VbYSJAjf,0.751,0.819,11,-4.372,0,0.0409,0.255,0.0,0.236,0.697,131.842
+Pretty Little Poison,Warren Zeiders,2gT2iF1YK5r54A2PDEXVv8,0.518,0.557,1,-4.839,1,0.0332,0.0258,2.46e-06,0.156,0.216,111.865
+On My Mama,Victoria Monet,7DswEZZthZ6piQpL25qGAM,0.675,0.546,4,-7.716,0,0.0511,0.556,0.00441,0.167,0.607,77.415
+My Love Mine All Mine,Mitski,3vkCueOmm7xQDoJ17W1Pm3,0.504,0.308,9,-14.958,1,0.0321,0.868,0.135,0.158,0.121,113.95
+Exes,Tate McRae,0HD8mbiPjp3o94X3EaZp0o,0.838,0.569,5,-6.324,0,0.0621,0.152,0.000136,0.102,0.551,136.965
+Surround Sound,JID Featuring 21 Savage & Baby Tate,1udwFobQ1JoOdWPQrp2b6u,0.575,0.56,5,-7.302,1,0.478,0.173,0.0,0.257,0.471,75.956
+Monaco,Bad Bunny,3lakwaXamzbachjLgrUegf,0.744,0.816,8,-7.082,0,0.057,0.0938,1.26e-05,0.487,0.9,80.037
+Strangers,Kenya Grace,5mjYQaktjmjcMKcUIcqz4s,0.628,0.523,11,-8.307,0,0.0946,0.701,0.00274,0.219,0.416,169.982
+You Broke My Heart,Drake,5Se32hEA9raeboZerywxka,0.465,0.7,10,-5.163,0,0.0893,0.203,0.0,0.299,0.276,120.854
+Get Him Back!,Olivia Rodrigo,2gyxAWHebV7xPYVxqoi86f,0.546,0.846,5,-5.719,1,0.181,0.0135,0.0,0.607,0.74,162.043
+IDGAF,Drake Featuring Yeat,2uvBprdlMpzeN5Bq0PzMBI,0.673,0.672,8,-8.577,1,0.224,0.0466,0.000284,0.193,0.14,136.902
+Harley Quinn,Fuerza Regida & Marshmello,6CvTEtGagmzQvkUzzyKR9k,0.815,0.741,1,-6.04,1,0.0569,0.0277,0.0183,0.219,0.591,125.031
+Wild Ones,Jessie Murph & Jelly Roll,2kE2HFBFkJ0VMw3igxYohz,0.65,0.689,0,-3.543,1,0.0449,0.0878,0.0,0.172,0.294,136.03
+Bellakeo,Peso Pluma & Anitta,05WVKTdZhlIMX4qqMLuo0f,0.72,0.88,9,-2.834,1,0.101,0.0562,0.06,0.153,0.463,180.011
+Truck Bed,HARDY,103u49mLoJUge83B1CnLxI,0.662,0.77,0,-4.887,1,0.0367,0.0875,0.0,0.35,0.769,132.057
+Save Me The Trouble,Dan + Shay,7hZTywPKMdVjJzwdWu11BK,0.444,0.629,9,-4.435,1,0.0318,0.00544,0.0,0.271,0.376,134.931
+Jingle Bells,Meghan Trainor,6gmY1F2AMw2i4gO79ppBAe,0.609,0.575,1,-4.789,1,0.0387,0.723,0.0,0.176,0.662,113.958
+La Victima,Xavi,5XVdHRf4CAJ2Jm0uMIy5qY,0.778,0.835,11,-3.598,0,0.0767,0.152,0.0,0.109,0.666,140.082
+Where The Wild Things Are,Luke Combs,0eBFgRxyVSeuT4iyrbukdn,0.708,0.731,3,-4.872,1,0.0345,0.0189,4.47e-06,0.129,0.379,116.975
+Qlona,Karol G & Peso Pluma,5qo0wgdoWODZj9efbNWgv0,0.632,0.359,0,-8.254,1,0.0347,0.612,0.911,0.117,0.833,80.018
+You're Losing Me (From The Vault),Taylor Swift,3CWq0pAKKTWb0K4yiglDc4,0.747,0.391,0,-13.767,1,0.052,0.529,0.003,0.111,0.195,102.984
+500lbs,Lil Tecca,1xWkeSPhf3bZqHY7Ncz8vp,0.731,0.667,7,-7.928,0,0.0815,0.134,0.0,0.114,0.485,123.042
+The Painter,Cody Johnson,6UoKX6uLJwhsnyTp5k5StP,0.512,0.709,2,-5.766,1,0.0329,0.0415,4.25e-06,0.107,0.261,97.981
+Never Lose Me,Flo Milli,6uTPdRrEDeH8Fyg5L5qmeU,0.781,0.567,1,-7.857,1,0.0969,0.0504,0.0,0.0981,0.0743,121.964
+Burn It Down,Parker McCollum,09hVlIVHtEE1nLUv6YGZiW,0.461,0.718,2,-5.627,1,0.0666,0.139,1.66e-05,0.0968,0.334,162.187
+Winter Wonderland,Chloe,0u1Sp4e3Phbbg9U215CMBe,0.0746,0.042,2,-25.752,1,0.0408,0.925,0.615,0.0484,0.0347,77.81
+Segun Quien,Maluma & Carin Leon,6fNCrsrdIcgVd2aZZ0nnz4,0.909,0.762,9,-3.974,1,0.0643,0.434,0.0,0.0856,0.843,101.987
+Needle,Nicki Minaj Featuring Drake,2OOcagX0sr4SQuBbHJkE5I,0.53,0.614,7,-11.556,1,0.0408,0.283,0.0281,0.53,0.638,115.329
+DJ Play A Christmas Song,Cher,2ljUUoqlnRUGGa7bmpvevC,0.533,0.76,11,-7.256,0,0.121,0.157,0.0,0.614,0.466,133.916
+Mind On You,George Birge,7rr3gguU3TcVnLZD9VzASE,0.576,0.815,10,-3.999,0,0.0267,0.142,0.0,0.267,0.56,130.032
+Lace It,"Juice WRLD, Eminem & benny blanco",4qmG24ebshLXtKu9HIShBP,0.773,0.597,2,-7.138,1,0.309,0.194,0.0,0.22,0.305,160.101
+Hey Driver,Zach Bryan Featuring The War And Treaty,4pCbJC43j3gSqG6Fen6upD,0.583,0.351,0,-5.836,1,0.0306,0.494,0.0,0.368,0.462,79.014
+Feather,Sabrina Carpenter,2Zo1PcszsT9WQ0ANntJbID,0.787,0.686,6,-4.37,0,0.0339,0.0893,0.0,0.0927,0.836,123.51
+Can't Catch Me Now,Olivia Rodrigo,56xHMIfQPoe0prrSi3BGhf,0.521,0.366,11,-7.698,0,0.034,0.838,4.11e-06,0.12,0.225,141.965
+El Amor de Su Vida,Grupo Frontera & Grupo Firme,0O3U5iwTbiXCREMkvotJuN,0.616,0.834,9,-3.069,1,0.0664,0.06,0.0,0.338,0.746,151.701
+Standing Next To You,Jung Kook,2KslE17cAJNHTsI2MI0jb2,0.711,0.809,2,-4.389,0,0.0955,0.0447,0.0,0.339,0.816,106.017
+Man Made A Bar,Morgan Wallen Featuring Eric Church,73zawW1ttszLRgT9By826D,0.498,0.764,4,-5.006,1,0.0309,0.123,3.07e-05,0.119,0.489,147.984
+Que Onda,Calle 24 x Chino Pacas x Fuerza Regida,2Sy3dDqPwjnTO3PnommJPe,0.844,0.637,10,-6.072,0,0.0325,0.22,0.0,0.0459,0.96,125.012
+Great Gatsby,Rod Wave,4M68xjcc42oxyphhzpOWXS,0.67,0.555,1,-9.12,0,0.0908,0.0382,6.36e-06,0.414,0.16,156.937
